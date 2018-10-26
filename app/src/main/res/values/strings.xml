@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinPractice</string>
+    <string name="search_word">Search...</string>
+</resources>
